@@ -1,4 +1,5 @@
 
 public class GamblingSimulator {
-	public int stake = 100;
+	public int STAKE = 100;
+	public int BET_AMOUNT = 1;
 }
